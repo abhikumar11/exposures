@@ -8,7 +8,7 @@ const Navbar = () => {
                     <div class="container">
                          <Link to="/" class="navbar-brand" href="#">
                               <i class="fa-solid fa-shop me-2"></i>{" "}
-                              <strong>SnapShot</strong>
+                              <strong>Exposures</strong>
                          </Link>
                          <div class="mx-auto my-3 d-lg-none d-sm-block d-xs-block"></div>
                          <div
